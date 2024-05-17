@@ -1,0 +1,3 @@
+[submodule "openthrift-contracts"]
+	path = openthrift-contracts
+	url = https://github.com/romanovich23/openthrift-contracts
